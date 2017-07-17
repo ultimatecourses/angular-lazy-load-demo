@@ -3,7 +3,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { Routes, RouterModule } from '@angular/router';
 
 // containers
-import { AppComponent } from './/app.component';
+import { AppComponent } from './app.component';
 
 // routes
 export const ROUTES: Routes = [
