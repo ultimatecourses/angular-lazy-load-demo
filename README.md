@@ -6,7 +6,7 @@ Lazy loading: code splitting with @NgModules
 
 ---
 
-<a href="https://ultimateangular.com" target="_blank"><img src="https://ultimateangular.com/assets/img/banner.jpg"></a>
+<a href="https://ultimatecourses.com" target="_blank"><img src="https://ultimatecourses.com/assets/img/banners/ultimate-angular-github.svg"></a>
 
 ---
 
